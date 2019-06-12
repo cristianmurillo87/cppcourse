@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPPUdemy" Database="" Version="10.0.0" SWTLW="Yes">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
+  <Project Name="01CppLearning" Path="CPPLearning/CPPLearning.project" Active="No"/>
+  <Project Name="04Variables" Path="Variables/Variables.project" Active="No"/>
+  <Project Name="02PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
+  <Project Name="03SizeofOperator" Path="SizeofOperator/SizeofOperator.project" Active="No"/>
+  <Project Name="05Constants" Path="Constants/Constants.project" Active="No"/>
+  <Project Name="06ConstantsChallenge" Path="ConstantsChallenge/ConstantsChallenge.project" Active="No"/>
+  <Project Name="07Arrays" Path="07Arrays/07Arrays.project" Active="No"/>
+  <Project Name="08Vectors" Path="08Vectors/08Vectors.project" Active="No"/>
+  <Project Name="09VectorsChallenge" Path="09VectorsChallenge/09VectorsChallenge.project" Active="No"/>
+  <Project Name="10IncrementDecrement" Path="10IncrementDecrement/10IncrementDecrement.project" Active="No"/>
+  <Project Name="11IfElseStatements" Path="11IfElseStatements/11IfElseStatements.project" Active="No"/>
+  <Project Name="12IfElseStatementsChallenge" Path="12IfElseStatementsChallenge/12IfElseStatementsChallenge.project" Active="No"/>
+  <Project Name="13RangeBasedForLoop" Path="13RangeBasedForLoop/13RangeBasedForLoop.project" Active="No"/>
+  <Project Name="14WhileLoop" Path="14WhileLoop/14WhileLoop.project" Active="No"/>
+  <Project Name="15DoWhileLoop" Path="15DoWhileLoop/15DoWhileLoop.project" Active="No"/>
+  <Project Name="16NestedLoops" Path="16NestedLoops/16NestedLoops.project" Active="No"/>
+  <Project Name="17NestedLoopsChallenge" Path="17NestedLoopsChallenge/17NestedLoopsChallenge.project" Active="No"/>
+  <Project Name="18CStyleStrings" Path="18CStyleStrings/18CStyleStrings.project" Active="No"/>
+  <Project Name="19CppStyleStrings" Path="CppStyleStrings/CppStyleStrings.project" Active="No"/>
+  <Project Name="20CMathFunctions" Path="20CMathFunctions/20CMathFunctions.project" Active="No"/>
+  <Project Name="21RandomNumbers" Path="21RandomNumbers/21RandomNumbers.project" Active="No"/>
+  <Project Name="22FunctionDefinition" Path="22FunctionDefinition/22FunctionDefinition.project" Active="No"/>
+  <Project Name="23FunctionPrototypes" Path="23FunctionPrototypes/23FunctionPrototypes.project" Active="No"/>
+  <Project Name="24FunctionParameters" Path="24FunctionParameters/24FunctionParameters.project" Active="No"/>
+  <Project Name="25ArrayParameterFunctions" Path="25ArrayParameterFunctions/25ArrayParameterFunctions.project" Active="No"/>
+  <Project Name="26PassByReference" Path="26PassByReference/26PassByReference.project" Active="No"/>
+  <Project Name="27RecursiveFunctions" Path="27RecursiveFunctions/27RecursiveFunctions.project" Active="No"/>
+  <Project Name="28FunctionsChallenge" Path="28FunctionsChallenge/28FunctionsChallenge.project" Active="No"/>
+  <Project Name="29SimplePointers" Path="29SimplePointers/29SimplePointers.project" Active="No"/>
+  <Project Name="30DereferencingPointers" Path="30DereferencingPointers/30DereferencingPointers.project" Active="No"/>
+  <Project Name="31DynamicMemory" Path="31DynamicMemory/31DynamicMemory.project" Active="No"/>
+  <Project Name="32ArrayPointers" Path="32ArrayPointers/32ArrayPointers.project" Active="No"/>
+  <Project Name="33PassingPointerstoFuncions" Path="33PassingPointerstoFuncions/33PassingPointerstoFuncions.project" Active="No"/>
+  <Project Name="34ReturnPointer" Path="34ReturnPointer/34ReturnPointer.project" Active="No"/>
+  <Project Name="35PointersChallenge" Path="35PointersChallenge/35PointersChallenge.project" Active="No"/>
+  <Project Name="36ClassesAndObjects" Path="36ClassesAndObjects/36ClassesAndObjects.project" Active="No"/>
+  <Project Name="37AccessingClassMembers" Path="39AccessingClassMembers/39AccessingClassMembers.project" Active="No"/>
+  <Project Name="38AccessModifiers" Path="38AccessModifiers/38AccessModifiers.project" Active="No"/>
+  <Project Name="39ImplementingMemberMethods" Path="39ImplementingMemberMethods/39ImplementingMemberMethods.project" Active="No"/>
+  <Project Name="40ConstructorsAndDestructors" Path="40ConstructorsAndDestructors/40ConstructorsAndDestructors.project" Active="No"/>
+  <Project Name="41ConstructorInitizialitationList" Path="41OverloadingConstructors/41OverloadingConstructors.project" Active="No"/>
+  <Project Name="42CopyConstructor" Path="42CopyConstructor/42CopyConstructor.project" Active="No"/>
+  <Project Name="43ConstConstructors" Path="43ConstConstructors/43ConstConstructors.project" Active="No"/>
+  <Project Name="44StaticClassMembers" Path="44StaticClassMembers/44StaticClassMembers.project" Active="No"/>
+  <Project Name="45ChallengeSolution" Path="45ChallengeSolution/45ChallengeSolution.project" Active="No"/>
+  <Project Name="46OperatorOverloading" Path="46OperatorOverloading/46OperatorOverloading.project" Active="No"/>
+  <Project Name="47DerivingClasses" Path="47DerivingClasses/47DerivingClasses.project" Active="No"/>
+  <Project Name="48ProtectedMembersAccess" Path="48ProtectedMembersAccess/48ProtectedMembersAccess.project" Active="No"/>
+  <Project Name="49BaseClassInitialization" Path="49BaseClassInitialization/49BaseClassInitialization.project" Active="No"/>
+  <Project Name="50RedefiningBaseClassMethods" Path="50RedefiningBaseClassMethods/50RedefiningBaseClassMethods.project" Active="No"/>
+  <Project Name="51InheritanceChallenge" Path="51InheritanceChallenge/51InheritanceChallenge.project" Active="No"/>
+  <Project Name="52AbstractClassesInterfaces" Path="52AbstractClassesInterfaces/52AbstractClassesInterfaces.project" Active="No"/>
+  <Project Name="53PolymorfismChallenge" Path="53PolymorfismChallenge/53PolymorfismChallenge.project" Active="No"/>
+  <Project Name="54SmartPointers" Path="54SmartPointers/54SmartPointers.project" Active="No"/>
+  <Project Name="55SmartPointersChallenge" Path="55SmartPointersChallenge/55SmartPointersChallenge.project" Active="No"/>
+  <Project Name="56ExceptionHandling" Path="56ExceptionHandling/56ExceptionHandling.project" Active="No"/>
+  <Project Name="57ExceptionHandlingChallenge" Path="57ExceptionHandlingChallenge/57ExceptionHandlingChallenge.project" Active="No"/>
+  <Project Name="58IOStreams" Path="58IOStreams/58IOStreams.project" Active="No"/>
+  <Project Name="59IOStreamFiles" Path="59IOStreamFiles/59IOStreamFiles.project" Active="No"/>
+  <Project Name="60IOStreamChallenge" Path="60IOStreamChallenge/60IOStreamChallenge.project" Active="No"/>
+  <Project Name="61IOStreamChallenge2" Path="61IOStreamChallenge2/61IOStreamChallenge2.project" Active="No"/>
+  <Project Name="62IOStreamChallenge3" Path="62IOStreamFilesChallenge3/62IOStreamFilesChallenge3.project" Active="No"/>
+  <Project Name="63Templates" Path="63Templates/63Templates.project" Active="No"/>
+  <Project Name="64ArrayTemplate" Path="64ArrayTemplate/64ArrayTemplate.project" Active="No"/>
+  <Project Name="65STLIterators" Path="65STLIterators/65STLIterators.project" Active="No"/>
+  <Project Name="66STLAlgorithms" Path="66STLAlgorithms/66STLAlgorithms.project" Active="No"/>
+  <Project Name="67STLContainers" Path="67STLContainers/67STLContainers.project" Active="No"/>
+  <Project Name="68STLChallenge1" Path="68STLChallenge1/68STLChallenge1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="01CppLearning" ConfigName="Debug"/>
+      <Project Name="04Variables" ConfigName="Debug"/>
+      <Project Name="02PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="03SizeofOperator" ConfigName="Debug"/>
+      <Project Name="05Constants" ConfigName="Debug"/>
+      <Project Name="06ConstantsChallenge" ConfigName="Debug"/>
+      <Project Name="07Arrays" ConfigName="Debug"/>
+      <Project Name="08Vectors" ConfigName="Debug"/>
+      <Project Name="09VectorsChallenge" ConfigName="Debug"/>
+      <Project Name="10IncrementDecrement" ConfigName="Debug"/>
+      <Project Name="11IfElseStatements" ConfigName="Debug"/>
+      <Project Name="12IfElseStatementsChallenge" ConfigName="Debug"/>
+      <Project Name="13RangeBasedForLoop" ConfigName="Debug"/>
+      <Project Name="14WhileLoop" ConfigName="Debug"/>
+      <Project Name="15DoWhileLoop" ConfigName="Debug"/>
+      <Project Name="16NestedLoops" ConfigName="Debug"/>
+      <Project Name="17NestedLoopsChallenge" ConfigName="Debug"/>
+      <Project Name="18CStyleStrings" ConfigName="Debug"/>
+      <Project Name="19CppStyleStrings" ConfigName="Debug"/>
+      <Project Name="20CMathFunctions" ConfigName="Debug"/>
+      <Project Name="21RandomNumbers" ConfigName="Debug"/>
+      <Project Name="22FunctionDefinition" ConfigName="Debug"/>
+      <Project Name="23FunctionPrototypes" ConfigName="Debug"/>
+      <Project Name="24FunctionParameters" ConfigName="Debug"/>
+      <Project Name="25ArrayParameterFunctions" ConfigName="Debug"/>
+      <Project Name="26PassByReference" ConfigName="Debug"/>
+      <Project Name="27RecursiveFunctions" ConfigName="Debug"/>
+      <Project Name="28FunctionsChallenge" ConfigName="Debug"/>
+      <Project Name="29SimplePointers" ConfigName="Debug"/>
+      <Project Name="30DereferencingPointers" ConfigName="Debug"/>
+      <Project Name="31DynamicMemory" ConfigName="Debug"/>
+      <Project Name="32ArrayPointers" ConfigName="Debug"/>
+      <Project Name="33PassingPointerstoFuncions" ConfigName="Debug"/>
+      <Project Name="34ReturnPointer" ConfigName="Debug"/>
+      <Project Name="35PointersChallenge" ConfigName="Debug"/>
+      <Project Name="36ClassesAndObjects" ConfigName="Debug"/>
+      <Project Name="37AccessingClassMembers" ConfigName="Debug"/>
+      <Project Name="38AccessModifiers" ConfigName="Debug"/>
+      <Project Name="39ImplementingMemberMethods" ConfigName="Debug"/>
+      <Project Name="40ConstructorsAndDestructors" ConfigName="Debug"/>
+      <Project Name="41ConstructorInitizialitationList" ConfigName="Debug"/>
+      <Project Name="42CopyConstructor" ConfigName="Debug"/>
+      <Project Name="43ConstConstructors" ConfigName="Debug"/>
+      <Project Name="44StaticClassMembers" ConfigName="Debug"/>
+      <Project Name="45ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="46OperatorOverloading" ConfigName="Debug"/>
+      <Project Name="47DerivingClasses" ConfigName="Debug"/>
+      <Project Name="48ProtectedMembersAccess" ConfigName="Debug"/>
+      <Project Name="49BaseClassInitialization" ConfigName="Debug"/>
+      <Project Name="50RedefiningBaseClassMethods" ConfigName="Debug"/>
+      <Project Name="51InheritanceChallenge" ConfigName="Debug"/>
+      <Project Name="52AbstractClassesInterfaces" ConfigName="Debug"/>
+      <Project Name="53PolymorfismChallenge" ConfigName="Debug"/>
+      <Project Name="54SmartPointers" ConfigName="Debug"/>
+      <Project Name="55SmartPointersChallenge" ConfigName="Debug"/>
+      <Project Name="56ExceptionHandling" ConfigName="Debug"/>
+      <Project Name="57ExceptionHandlingChallenge" ConfigName="Debug"/>
+      <Project Name="58IOStreams" ConfigName="Debug"/>
+      <Project Name="59IOStreamFiles" ConfigName="Debug"/>
+      <Project Name="60IOStreamChallenge" ConfigName="Debug"/>
+      <Project Name="61IOStreamChallenge2" ConfigName="Debug"/>
+      <Project Name="62IOStreamChallenge3" ConfigName="Debug"/>
+      <Project Name="63Templates" ConfigName="Debug"/>
+      <Project Name="64ArrayTemplate" ConfigName="Debug"/>
+      <Project Name="65STLIterators" ConfigName="Debug"/>
+      <Project Name="66STLAlgorithms" ConfigName="Debug"/>
+      <Project Name="67STLContainers" ConfigName="Debug"/>
+      <Project Name="68STLChallenge1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="01CppLearning" ConfigName="Release"/>
+      <Project Name="04Variables" ConfigName="Release"/>
+      <Project Name="02PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="03SizeofOperator" ConfigName="Release"/>
+      <Project Name="05Constants" ConfigName="Release"/>
+      <Project Name="06ConstantsChallenge" ConfigName="Release"/>
+      <Project Name="07Arrays" ConfigName="Release"/>
+      <Project Name="08Vectors" ConfigName="Release"/>
+      <Project Name="09VectorsChallenge" ConfigName="Release"/>
+      <Project Name="10IncrementDecrement" ConfigName="Release"/>
+      <Project Name="11IfElseStatements" ConfigName="Release"/>
+      <Project Name="12IfElseStatementsChallenge" ConfigName="Release"/>
+      <Project Name="13RangeBasedForLoop" ConfigName="Release"/>
+      <Project Name="14WhileLoop" ConfigName="Release"/>
+      <Project Name="15DoWhileLoop" ConfigName="Release"/>
+      <Project Name="16NestedLoops" ConfigName="Release"/>
+      <Project Name="17NestedLoopsChallenge" ConfigName="Release"/>
+      <Project Name="18CStyleStrings" ConfigName="Release"/>
+      <Project Name="19CppStyleStrings" ConfigName="Release"/>
+      <Project Name="20CMathFunctions" ConfigName="Release"/>
+      <Project Name="21RandomNumbers" ConfigName="Release"/>
+      <Project Name="22FunctionDefinition" ConfigName="Release"/>
+      <Project Name="23FunctionPrototypes" ConfigName="Release"/>
+      <Project Name="24FunctionParameters" ConfigName="Release"/>
+      <Project Name="25ArrayParameterFunctions" ConfigName="Release"/>
+      <Project Name="26PassByReference" ConfigName="Release"/>
+      <Project Name="27RecursiveFunctions" ConfigName="Release"/>
+      <Project Name="28FunctionsChallenge" ConfigName="Release"/>
+      <Project Name="29SimplePointers" ConfigName="Release"/>
+      <Project Name="30DereferencingPointers" ConfigName="Release"/>
+      <Project Name="31DynamicMemory" ConfigName="Release"/>
+      <Project Name="32ArrayPointers" ConfigName="Release"/>
+      <Project Name="33PassingPointerstoFuncions" ConfigName="Release"/>
+      <Project Name="34ReturnPointer" ConfigName="Release"/>
+      <Project Name="35PointersChallenge" ConfigName="Release"/>
+      <Project Name="36ClassesAndObjects" ConfigName="Release"/>
+      <Project Name="37AccessingClassMembers" ConfigName="Release"/>
+      <Project Name="38AccessModifiers" ConfigName="Release"/>
+      <Project Name="39ImplementingMemberMethods" ConfigName="Release"/>
+      <Project Name="40ConstructorsAndDestructors" ConfigName="Release"/>
+      <Project Name="41ConstructorInitizialitationList" ConfigName="Release"/>
+      <Project Name="42CopyConstructor" ConfigName="Release"/>
+      <Project Name="43ConstConstructors" ConfigName="Release"/>
+      <Project Name="44StaticClassMembers" ConfigName="Release"/>
+      <Project Name="45ChallengeSolution" ConfigName="Release"/>
+      <Project Name="46OperatorOverloading" ConfigName="Release"/>
+      <Project Name="47DerivingClasses" ConfigName="Release"/>
+      <Project Name="48ProtectedMembersAccess" ConfigName="Release"/>
+      <Project Name="49BaseClassInitialization" ConfigName="Release"/>
+      <Project Name="50RedefiningBaseClassMethods" ConfigName="Release"/>
+      <Project Name="51InheritanceChallenge" ConfigName="Release"/>
+      <Project Name="52AbstractClassesInterfaces" ConfigName="Release"/>
+      <Project Name="53PolymorfismChallenge" ConfigName="Release"/>
+      <Project Name="54SmartPointers" ConfigName="Release"/>
+      <Project Name="55SmartPointersChallenge" ConfigName="Release"/>
+      <Project Name="56ExceptionHandling" ConfigName="Release"/>
+      <Project Name="57ExceptionHandlingChallenge" ConfigName="Release"/>
+      <Project Name="58IOStreams" ConfigName="Release"/>
+      <Project Name="59IOStreamFiles" ConfigName="Release"/>
+      <Project Name="60IOStreamChallenge" ConfigName="Release"/>
+      <Project Name="61IOStreamChallenge2" ConfigName="Release"/>
+      <Project Name="62IOStreamChallenge3" ConfigName="Release"/>
+      <Project Name="63Templates" ConfigName="Release"/>
+      <Project Name="64ArrayTemplate" ConfigName="Release"/>
+      <Project Name="65STLIterators" ConfigName="Release"/>
+      <Project Name="66STLAlgorithms" ConfigName="Release"/>
+      <Project Name="67STLContainers" ConfigName="Release"/>
+      <Project Name="68STLChallenge1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

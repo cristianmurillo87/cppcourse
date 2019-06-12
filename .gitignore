@@ -1,0 +1,4 @@
+*.mk
+*.project
+Debug/
+.codelite/
